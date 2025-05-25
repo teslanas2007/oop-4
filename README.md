@@ -13,6 +13,7 @@
 ```python
 c1 = ColorRGB(100, 150, 200)
 c2 = ColorRGB(60, 70, 80)
+c3 = ColorRGB(300, 0, 0)
 ```
 Додавання кольорів
 ```python
